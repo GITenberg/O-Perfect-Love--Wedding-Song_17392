@@ -1,0 +1,35 @@
+_repo: O-Perfect-Love--Wedding-Song_17392
+_version: 0.1.0
+contributor:
+  composer:
+    agent_name: Burleigh, H. T. (Harry Thacker)
+    aliases:
+    - Burleigh, Henry Thacker
+    - Burleigh, Harry Thacker
+    birthdate: 1866
+    deathdate: 1949
+    gutenberg_agent_id: '7345'
+    url: http://www.gutenberg.org/2009/agents/7345
+    wikipedia: http://en.wikipedia.org/wiki/Harry_Burleigh
+  contributor:
+    agent_name: Blomfield, Dorothy F.
+    gutenberg_agent_id: '38506'
+    url: http://www.gutenberg.org/2009/agents/38506
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17392'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'M'
+- !lcsh 'Wedding music'
+- !lcsh 'Songs with piano'
+title: 'O Perfect Love: Wedding Song'
+url: http://www.gutenberg.org/ebooks/17392
